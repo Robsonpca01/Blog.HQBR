@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://blog.hqbr.com.br//blog/2013/07/16/hello-world/</loc>
+        <lastmod>2013-07-16T22:20:16-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.hqbr.com.br//blog/archives/</loc>
+        <lastmod>2013-07-16T22:20:16-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.hqbr.com.br//robots.txt</loc>
+        <lastmod>2013-07-05T09:57:04-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.hqbr.com.br//</loc>
+        <lastmod>2013-07-16T22:20:16-03:00</lastmod>
+    </url>
+</urlset>

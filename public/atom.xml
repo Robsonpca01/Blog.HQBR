@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[HQBR Blog]]></title>
+  <link href="http://blog.hqbr.com.br//atom.xml" rel="self"/>
+  <link href="http://blog.hqbr.com.br//"/>
+  <updated>2013-07-16T22:44:58-03:00</updated>
+  <id>http://blog.hqbr.com.br//</id>
+  <author>
+    <name><![CDATA[Atsuki]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Olá :D]]></title>
+    <link href="http://blog.hqbr.com.br//blog/2013/07/16/hello-world/"/>
+    <updated>2013-07-16T02:44:00-03:00</updated>
+    <id>http://blog.hqbr.com.br//blog/2013/07/16/hello-world</id>
+    <content type="html"><![CDATA[<p>Olá a todos!</p>
+
+<p>Decidi criar este blog a fim de ter um canal direto de comunicação com os leitores além das redes sociais, penso que seja bom ter um cantinho só nosso rsrs</p>
+
+<p>Tudo ainda está bem no começo, engatinhando, mas fico contente por já termos alguns leitores, ainda que poucos. Fico contente por ter a mim mesmo como leitor, minha maior motivação foi eu mesmo, sempre senti falta de um leitor de HQs online^^</p>
+
+<p>Obrigado por sua visita, fique à vontade para reclamar, agradecer, cobrar e até mesmo pedir o upload daquela sua série favorita.</p>
+
+<p>Um abraço!</p>
+]]></content>
+  </entry>
+  
+</feed>
